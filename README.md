@@ -44,7 +44,7 @@ The goal of this project is to estimate each team’s chance of reaching differe
 * Jupyter notebooks
 * Matplotlib / pandas plotting
 
-The 1,000-run Monte Carlo simulation showed that the model strongly favored teams with the highest Elo ratings, especially Argentina and Spain. The final results were saved to:
+The 1,000-run Monte Carlo simulation showed that the model strongly favored teams with the highest Elo ratings and recent tournament winners, especially Argentina and Spain. The final results were saved to:
 
 [Final Probabilities](/processed/experiments/no_conf_clean_probs.csv)
 
